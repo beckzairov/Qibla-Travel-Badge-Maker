@@ -1,0 +1,6 @@
+group = "GROUP 142"
+template_men = "M.png"  # Path to men's badge template
+template_women = "F.png"  # Path to women's badge template
+output_pdf = "badges.pdf"
+font_path = "Unbounded-Bold.ttf"  # Path to the font file # Path to the font file
+text_color = (239, 219, 199)  # RGB for #EFDBC7
